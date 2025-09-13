@@ -61,5 +61,10 @@ public class MyUser {
 	 
 	@Version
 	private Integer updateCount;
+
+	public String getUsername() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 }
